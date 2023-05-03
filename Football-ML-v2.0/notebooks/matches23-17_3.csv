@@ -1,0 +1,341 @@
+Unnamed: 0,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,team_name,season
+0.0,2017-07-21,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,W,2.0,0.0,Tijuana,,,42.0,27333.0,Julio Domínguez,4-1-4-1,Roberto García,Match Report,,0,0,,,0,1,Cruz Azul,2018
+0.0,2017-07-21,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,0.0,0.0,Morelia,,,56.0,26984.0,José María Basanta,4-3-3,Marco Antonio Nava,Match Report,,0,0,,,0,0,Monterrey,2018
+0.0,2017-07-21,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,L,0.0,2.0,Cruz Azul,,,58.0,27333.0,Juan Carlos Valenzuela,4-2-3-1,Roberto García,Match Report,,0,0,,,0,0,Tijuana,2018
+0.0,2017-07-21,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,0.0,0.0,Monterrey,,,44.0,26984.0,Gabriel Achilier,4-4-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Morelia,2018
+0.0,2017-07-22,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,2.0,2.0,Lobos BUAP,,,,5815.0,Néstor Araujo,4-3-3,Erick Yair Miranda,Match Report,,0,0,,,0,0,Santos Laguna,2018
+0.0,2017-07-22,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,0.0,0.0,Guadalajara,,,41.0,34272.0,Alfredo Talavera,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Toluca,2018
+0.0,2017-07-22,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,3.0,Atlas,,,50.0,20582.0,Mauro Boselli,3-1-4-2,Alfredo Peñaloza,Match Report,,0,0,,,0,0,Leon,2018
+0.0,2017-07-22,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,5.0,0.0,Puebla,,,56.0,41269.0,Juninho,3-4-1-2,Jorge Pérez,Match Report,,0,0,,,0,0,UANL,2018
+0.0,2017-07-22,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,0.0,0.0,Toluca,,,59.0,34272.0,Carlos Salcido,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Guadalajara,2018
+0.0,2017-07-22,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,1.0,Querétaro,,,57.0,24943.0,Oribe Peralta,3-4-3,Óscar Macias,Match Report,,0,0,,,0,0,America,2018
+0.0,2017-07-22,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,1.0,0.0,América,,,43.0,24943.0,Miguel Ángel Martínez,4-2-3-1,Óscar Macias,Match Report,,0,0,,,1,1,Queretaro,2018
+0.0,2017-07-22,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,2.0,2.0,Santos,,,,5815.0,Francisco Javier Rodríguez,3-4-3,Erick Yair Miranda,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+0.0,2017-07-22,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,3.0,0.0,León,,,50.0,20582.0,Rafael Márquez,4-4-2,Alfredo Peñaloza,Match Report,,0,0,,,1,1,Atlas,2018
+0.0,2017-07-22,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,5.0,UANL,,,44.0,41269.0,David Toledo,4-4-2,Jorge Pérez,Match Report,,0,0,,,0,0,Puebla,2018
+0.0,2017-07-23,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,1.0,0.0,Pachuca,,,38.0,27200.0,Gerardo Alcoba,4-4-1-1,Diego Montaño,Match Report,,0,0,,,0,0,UNAM,2018
+0.0,2017-07-23,18:49,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,2.0,0.0,Veracruz,,,43.0,16164.0,Marcelo Barovero,4-2-3-1,Paul Delgadillo,Match Report,,0,0,,,0,0,Necaxa,2018
+0.0,2017-07-23,18:49,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,0.0,2.0,Necaxa,,,57.0,16164.0,Cristian Pellerano,4-4-2,Paul Delgadillo,Match Report,,0,0,,,0,0,Veracruz,2018
+0.0,2017-07-23,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,0.0,1.0,UNAM,,,62.0,27200.0,Óscar Pérez Rojas,4-3-3,Diego Montaño,Match Report,,0,0,,,0,0,Pachuca,2018
+1.0,2017-07-28,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,L,1.0,2.0,Atlas,,,45.0,43209.0,Gerardo Alcoba,4-4-1-1,Eduardo Basulto,Match Report,,0,0,,,0,0,UNAM,2018
+1.0,2017-07-28,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,1.0,1.0,Morelia,,,52.0,12067.0,David Toledo,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,Puebla,2018
+1.0,2017-07-28,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,W,2.0,1.0,UNAM,,,55.0,43209.0,Rafael Márquez,4-4-2,Eduardo Basulto,Match Report,,0,0,,,0,0,Atlas,2018
+1.0,2017-07-28,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,1.0,1.0,Puebla,,,48.0,12067.0,Gabriel Achilier,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,Morelia,2018
+1.0,2017-07-29,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,1.0,Monterrey,,,65.0,46130.0,Édgar Andrade,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Veracruz,2018
+1.0,2017-07-29,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,1.0,0.0,Veracruz,,,35.0,46130.0,José María Basanta,4-3-3,Jorge Rojas,Match Report,,0,0,,,0,0,Monterrey,2018
+1.0,2017-07-29,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,4.0,0.0,Querétaro,,,52.0,18263.0,Francisco Javier Rodríguez,3-4-1-2,Fernando Hernández,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+1.0,2017-07-29,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,1.0,1.0,Cruz Azul,,,42.0,26085.0,Carlos Salcido,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Guadalajara,2018
+1.0,2017-07-29,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,4.0,Lobos BUAP,,,49.0,18263.0,Miguel Ángel Martínez,4-2-3-1,Fernando Hernández,Match Report,,0,0,,,0,1,Queretaro,2018
+1.0,2017-07-29,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,2.0,América,,,61.0,22478.0,Erick Gutiérrez,4-3-3,César Arturo Ramos,Match Report,,0,0,,,0,0,Pachuca,2018
+1.0,2017-07-29,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,1.0,Necaxa,,,61.0,14691.0,Juan Carlos Valenzuela,4-2-3-1,Luis Santander,Match Report,,0,0,,,0,0,Tijuana,2018
+1.0,2017-07-29,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,1.0,1.0,Guadalajara,,,58.0,26085.0,José Corona,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Cruz Azul,2018
+1.0,2017-07-29,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,1.0,0.0,Tijuana,,,39.0,14691.0,Mario de Luna,4-2-3-1,Luis Santander,Match Report,,0,0,,,0,0,Necaxa,2018
+1.0,2017-07-29,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,0.0,Pachuca,,,39.0,22478.0,Oribe Peralta,4-3-3,César Arturo Ramos,Match Report,,0,0,,,0,0,America,2018
+1.0,2017-07-30,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Away,D,1.0,1.0,Santos,,,57.0,26382.0,Juninho,3-1-4-2,Roberto García,Match Report,,0,0,,,0,0,UANL,2018
+1.0,2017-07-30,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Home,D,1.0,1.0,UANL,,,43.0,26382.0,Néstor Araujo,4-3-3,Roberto García,Match Report,,0,0,,,0,0,Santos Laguna,2018
+1.0,2017-07-30,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,1.0,3.0,Toluca,,,48.0,17027.0,Mauro Boselli,4-4-2,Marco Antonio Nava,Match Report,,0,0,,,1,1,Leon,2018
+1.0,2017-07-30,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,3.0,1.0,León,,,52.0,17027.0,Alfredo Talavera,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,0,0,Toluca,2018
+2.0,2017-08-04,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,1.0,1.0,Santos,,,54.0,24093.0,Gabriel Achilier,4-4-2,Luis Santander,Match Report,,0,0,,,0,0,Morelia,2018
+2.0,2017-08-04,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,L,0.0,3.0,Monterrey,,,61.0,26733.0,Juan Carlos Valenzuela,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Tijuana,2018
+2.0,2017-08-04,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,W,3.0,0.0,Tijuana,,,39.0,26733.0,Dorlan Pabón,4-4-2,Fernando Guerrero,Match Report,,0,0,,,0,0,Monterrey,2018
+2.0,2017-08-04,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,1.0,1.0,Morelia,,,46.0,24093.0,Néstor Araujo,4-3-3,Luis Santander,Match Report,,0,0,,,0,0,Santos Laguna,2018
+2.0,2017-08-05,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,2.0,2.0,Guadalajara,,,38.0,35888.0,Marcelo Barovero,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,0,0,Necaxa,2018
+2.0,2017-08-05,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,2.0,2.0,Necaxa,,,62.0,35888.0,Carlos Salcido,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,0,0,Guadalajara,2018
+2.0,2017-08-05,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,1.0,UNAM,,,48.0,45256.0,Oribe Peralta,4-3-3,Erick Yair Miranda,Match Report,,0,0,,,1,2,America,2018
+2.0,2017-08-05,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,1.0,1.0,UANL,,,34.0,41304.0,Miguel Ángel Martínez,4-2-3-1,Francisco Chacon,Match Report,,0,0,,,0,0,Queretaro,2018
+2.0,2017-08-05,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,3.0,2.0,Pachuca,,,,8764.0,Francisco Javier Rodríguez,5-3-2,Roberto Ríos Jacome,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+2.0,2017-08-05,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,1.0,1.0,Querétaro,,,66.0,41304.0,Juninho,3-1-4-2,Francisco Chacon,Match Report,,0,0,,,0,0,UANL,2018
+2.0,2017-08-05,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,2.0,América,,,52.0,45256.0,Gerardo Alcoba,4-1-4-1,Erick Yair Miranda,Match Report,,0,0,,,0,0,UNAM,2018
+2.0,2017-08-05,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,2.0,2.0,Cruz Azul,,,39.0,22838.0,Mauro Boselli,4-4-2,Paul Delgadillo,Match Report,,0,0,,,0,0,Leon,2018
+2.0,2017-08-05,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,2.0,3.0,Lobos BUAP,,,,8764.0,Erick Gutiérrez,4-2-3-1,Roberto Ríos Jacome,Match Report,,0,0,,,1,1,Pachuca,2018
+2.0,2017-08-05,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,2.0,2.0,León,,,61.0,22838.0,José Corona,4-2-3-1,Paul Delgadillo,Match Report,,0,0,,,0,0,Cruz Azul,2018
+2.0,2017-08-06,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,3.0,2.0,Atlas,,,55.0,21527.0,Antonio Ríos,4-2-3-1,Jorge Pérez,Match Report,,0,0,,,0,1,Toluca,2018
+2.0,2017-08-06,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,0.0,2.0,Veracruz,,,61.0,14364.0,José Daniel Guerrero,3-5-1-1,Alfredo Peñaloza,Match Report,,0,0,,,0,0,Puebla,2018
+2.0,2017-08-06,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,2.0,3.0,Toluca,,,45.0,21527.0,Rafael Márquez,4-4-2,Jorge Pérez,Match Report,,0,0,,,0,0,Atlas,2018
+2.0,2017-08-06,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,2.0,0.0,Puebla,,,39.0,14364.0,Cristian Pellerano,4-3-3,Alfredo Peñaloza,Match Report,,0,0,,,0,0,Veracruz,2018
+3.0,2017-08-11,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,1.0,1.0,Tijuana,,,57.0,8124.0,José Daniel Guerrero,3-5-1-1,Andonai Escobedo,Match Report,,0,0,,,0,0,Puebla,2018
+3.0,2017-08-11,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,W,1.0,0.0,Atlas,,,47.0,49313.0,Oribe Peralta,4-4-2,Fernando Guerrero,Match Report,,0,0,,,1,1,America,2018
+3.0,2017-08-11,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,L,0.0,1.0,América,,,53.0,49313.0,Miguel Ángel Fraga,4-4-2,Fernando Guerrero,Match Report,,0,0,,,0,1,Atlas,2018
+3.0,2017-08-11,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,1.0,1.0,Puebla,,,43.0,8124.0,Luis Ángel Mendoza,4-2-3-1,Andonai Escobedo,Match Report,,0,0,,,0,0,Tijuana,2018
+3.0,2017-08-12,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,2.0,Querétaro,,,51.0,18257.0,Gabriel Achilier,4-4-2,Paul Delgadillo,Match Report,,0,0,,,0,0,Morelia,2018
+3.0,2017-08-12,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,0.0,0.0,Cruz Azul,,,34.0,23767.0,Antonio Ríos,4-2-3-1,Luis Santander,Match Report,,0,0,,,0,0,Toluca,2018
+3.0,2017-08-12,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,3.0,0.0,Necaxa,,,36.0,14897.0,Mauro Boselli,4-4-2,Jorge Rojas,Match Report,,0,0,,,0,0,Leon,2018
+3.0,2017-08-12,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,0.0,0.0,Toluca,,,67.0,23767.0,José Corona,4-2-3-1,Luis Santander,Match Report,,0,0,,,0,0,Cruz Azul,2018
+3.0,2017-08-12,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,4.0,Monterrey,,,58.0,49229.0,Carlos Salcido,4-3-3,Roberto García,Match Report,,0,0,,,0,0,Guadalajara,2018
+3.0,2017-08-12,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,2.0,Pachuca,,,56.0,23583.0,Juninho,3-1-4-2,Alfredo Peñaloza,Match Report,,0,0,,,1,1,UANL,2018
+3.0,2017-08-12,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,1.0,Morelia,,,50.0,18257.0,Miguel Ángel Martínez,4-2-3-1,Paul Delgadillo,Match Report,,0,0,,,0,0,Queretaro,2018
+3.0,2017-08-12,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,3.0,León,,,64.0,14897.0,Marcelo Barovero,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Necaxa,2018
+3.0,2017-08-12,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,1.0,UANL,,,44.0,23583.0,Erick Gutiérrez,4-3-3,Alfredo Peñaloza,Match Report,,0,0,,,0,0,Pachuca,2018
+3.0,2017-08-12,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,4.0,1.0,Guadalajara,,,42.0,49229.0,José María Basanta,4-4-2,Roberto García,Match Report,,0,0,,,0,1,Monterrey,2018
+3.0,2017-08-13,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,0.0,2.0,UNAM,,,57.0,220555.0,Francisco Javier Rodríguez,3-4-3,Óscar Macias,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+3.0,2017-08-13,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,3.0,2.0,Santos,,,37.0,22119.0,Cristian Pellerano,4-3-3,Francisco Chacon,Match Report,,0,0,,,0,0,Veracruz,2018
+3.0,2017-08-13,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,2.0,0.0,Lobos BUAP,,,43.0,220555.0,José Van Rankin,4-4-1-1,Óscar Macias,Match Report,,0,0,,,1,1,UNAM,2018
+3.0,2017-08-13,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,2.0,3.0,Veracruz,,,63.0,22119.0,Néstor Araujo,4-3-3,Francisco Chacon,Match Report,,0,0,,,0,0,Santos Laguna,2018
+4.0,2017-08-18,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,L,1.0,2.0,Pachuca,,,52.0,22416.0,Gabriel Achilier,4-4-2,Andonai Escobedo,Match Report,,0,0,,,0,0,Morelia,2018
+4.0,2017-08-18,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,W,2.0,0.0,Santos,,,55.0,26633.0,Juan Carlos Valenzuela,5-3-2,Diego Montaño,Match Report,,0,0,,,0,0,Tijuana,2018
+4.0,2017-08-18,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,L,0.0,2.0,Tijuana,,,45.0,26633.0,Néstor Araujo,4-3-3,Diego Montaño,Match Report,,0,0,,,0,0,Santos Laguna,2018
+4.0,2017-08-18,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,W,2.0,1.0,Morelia,,,48.0,22416.0,Erick Gutiérrez,4-3-3,Andonai Escobedo,Match Report,,0,0,,,0,0,Pachuca,2018
+4.0,2017-08-19,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,1.0,1.0,Veracruz,,,66.0,14436.0,Miguel Ángel Martínez,4-2-3-1,César Arturo Ramos,Match Report,,0,0,,,0,0,Queretaro,2018
+4.0,2017-08-19,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,2.0,UANL,,,31.0,41427.0,Abraham González,4-4-1-1,Fernando Guerrero,Match Report,,0,0,,,0,0,UNAM,2018
+4.0,2017-08-19,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,2.0,Cruz Azul,,,55.0,20186.0,Miguel Ángel Fraga,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,Atlas,2018
+4.0,2017-08-19,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,1.0,0.0,Guadalajara,,,53.0,31433.0,José Daniel Guerrero,3-5-1-1,Roberto Ríos Jacome,Match Report,,0,0,,,0,0,Puebla,2018
+4.0,2017-08-19,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,3.0,2.0,Lobos BUAP,,,,19495.0,Oribe Peralta,4-2-3-1,Roberto García,Match Report,,0,0,,,0,0,America,2018
+4.0,2017-08-19,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,2.0,3.0,América,,,,19495.0,Jorge Ibarra,5-3-2,Roberto García,Match Report,,0,0,,,1,1,Lobos BUAP,2018
+4.0,2017-08-19,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,Monterrey,,,54.0,21975.0,Mauro Boselli,4-4-2,Francisco Chacon,Match Report,,0,0,,,0,0,Leon,2018
+4.0,2017-08-19,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,1.0,Atlas,,,45.0,20186.0,José Corona,4-2-3-1,Óscar Macias,Match Report,,0,0,,,0,0,Cruz Azul,2018
+4.0,2017-08-19,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,1.0,1.0,Querétaro,,,34.0,14436.0,Cristian Pellerano,4-3-3,César Arturo Ramos,Match Report,,0,0,,,0,0,Veracruz,2018
+4.0,2017-08-19,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,1.0,Puebla,,,47.0,31433.0,Carlos Salcido,4-3-3,Roberto Ríos Jacome,Match Report,,0,0,,,0,0,Guadalajara,2018
+4.0,2017-08-19,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,León,,,46.0,21975.0,José María Basanta,4-4-2,Francisco Chacon,Match Report,,0,0,,,0,0,Monterrey,2018
+4.0,2017-08-19,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,0.0,UNAM,,,69.0,41427.0,Juninho,4-4-2,Fernando Guerrero,Match Report,,0,0,,,0,1,UANL,2018
+4.0,2017-08-20,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,D,0.0,0.0,Toluca,,,37.0,18406.0,Marcelo Barovero,4-4-2,Alfredo Peñaloza,Match Report,,0,0,,,0,0,Necaxa,2018
+4.0,2017-08-20,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,D,0.0,0.0,Necaxa,,,63.0,18406.0,Antonio Ríos,4-2-3-1,Alfredo Peñaloza,Match Report,,0,0,,,0,0,Toluca,2018
+5.0,2017-08-22,21:00,Liga MX,Apertura 2017 Regular Season,Tue,Away,W,2.0,1.0,UNAM,,,41.0,12165.0,Gabriel Achilier,4-2-3-1,Fernando Hernández,Match Report,,0,0,,,0,0,Morelia,2018
+5.0,2017-08-22,21:00,Liga MX,Apertura 2017 Regular Season,Tue,Home,L,1.0,3.0,Tijuana,,,47.0,13789.0,Miguel Ángel Martínez,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Queretaro,2018
+5.0,2017-08-22,20:30,Liga MX,Apertura 2017 Regular Season,Tue,Home,D,1.0,1.0,Lobos BUAP,,,42.0,25183.0,Miguel Ángel Fraga,4-2-3-1,Andonai Escobedo,Match Report,,0,0,,,0,0,Atlas,2018
+5.0,2017-08-22,19:06,Liga MX,Apertura 2017 Regular Season,Tue,Home,W,4.0,1.0,Veracruz,,,58.0,23421.0,Erick Gutiérrez,4-2-3-1,Erick Yair Miranda,Match Report,,0,0,,,0,0,Pachuca,2018
+5.0,2017-08-22,21:00,Liga MX,Apertura 2017 Regular Season,Tue,Home,L,1.0,2.0,Morelia,,,59.0,12165.0,Abraham González,4-2-3-1,Fernando Hernández,Match Report,,0,0,,,0,0,UNAM,2018
+5.0,2017-08-22,20:30,Liga MX,Apertura 2017 Regular Season,Tue,Away,D,1.0,1.0,Atlas,,,58.0,25183.0,César Cercado,5-3-2,Andonai Escobedo,Match Report,,0,0,,,0,1,Lobos BUAP,2018
+5.0,2017-08-22,19:06,Liga MX,Apertura 2017 Regular Season,Tue,Away,L,1.0,4.0,Pachuca,,,43.0,23421.0,Cristian Pellerano,4-2-3-1,Erick Yair Miranda,Match Report,,0,0,,,0,0,Veracruz,2018
+5.0,2017-08-22,21:00,Liga MX,Apertura 2017 Regular Season,Tue,Away,W,3.0,1.0,Querétaro,,,53.0,13789.0,Juan Carlos Valenzuela,3-5-2,Jorge Rojas,Match Report,,0,0,,,0,0,Tijuana,2018
+5.0,2017-08-23,19:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,D,2.0,2.0,UANL,,,38.0,31620.0,Oribe Peralta,4-3-3,Marco Antonio Nava,Match Report,,0,0,,,0,0,America,2018
+5.0,2017-08-23,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,D,1.0,1.0,Cruz Azul,,,45.0,16615.0,Marcelo Barovero,4-3-3,Francisco Chacon,Match Report,,0,0,,,0,0,Necaxa,2018
+5.0,2017-08-23,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,1.0,4.0,Monterrey,,,46.0,46496.0,Antonio Ríos,4-2-3-1,Paul Delgadillo,Match Report,,0,0,,,0,0,Toluca,2018
+5.0,2017-08-23,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,4.0,1.0,Toluca,,,54.0,46496.0,José María Basanta,4-4-2,Paul Delgadillo,Match Report,,0,0,,,1,1,Monterrey,2018
+5.0,2017-08-23,20:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,L,0.0,1.0,León,,,64.0,6232.0,José Daniel Guerrero,5-4-1,Jorge Pérez,Match Report,,0,0,,,0,0,Puebla,2018
+5.0,2017-08-23,20:30,Liga MX,Apertura 2017 Regular Season,Wed,Home,D,1.0,1.0,Guadalajara,,,53.0,19591.0,Néstor Araujo,4-4-2,César Arturo Ramos,Match Report,,0,0,,,0,1,Santos Laguna,2018
+5.0,2017-08-23,20:30,Liga MX,Apertura 2017 Regular Season,Wed,Away,D,1.0,1.0,Santos,,,47.0,19591.0,Carlos Salcido,4-2-3-1,César Arturo Ramos,Match Report,,0,0,,,1,1,Guadalajara,2018
+5.0,2017-08-23,19:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,D,2.0,2.0,América,,,62.0,31620.0,Hugo Ayala,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,1,1,UANL,2018
+5.0,2017-08-23,20:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,W,1.0,0.0,Puebla,,,36.0,6232.0,Mauro Boselli,4-2-3-1,Jorge Pérez,Match Report,,0,0,,,1,1,Leon,2018
+5.0,2017-08-23,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,D,1.0,1.0,Necaxa,,,55.0,16615.0,José Corona,4-3-3,Francisco Chacon,Match Report,,0,0,,,1,1,Cruz Azul,2018
+6.0,2017-08-25,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,W,2.0,1.0,Pachuca,,,63.0,26733.0,Juan Carlos Valenzuela,4-1-4-1,Roberto García,Match Report,,0,0,,,0,0,Tijuana,2018
+6.0,2017-08-25,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,L,1.0,2.0,Tijuana,,,37.0,26733.0,Alfonso Blanco Antúnez,3-5-2,Roberto García,Match Report,,0,0,,,0,0,Pachuca,2018
+6.0,2017-08-26,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,1.0,Atlas,,,56.0,13356.0,Marcelo Barovero,4-4-2,Paul Delgadillo,Match Report,,0,0,,,0,0,Necaxa,2018
+6.0,2017-08-26,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,0.0,0.0,Querétaro,,,71.0,23411.0,Carlos Salcido,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Guadalajara,2018
+6.0,2017-08-26,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,2.0,Necaxa,,,44.0,13356.0,Miguel Ángel Fraga,4-4-2,Paul Delgadillo,Match Report,,0,0,,,0,0,Atlas,2018
+6.0,2017-08-26,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,Santos,,,57.0,17630.0,Mauro Boselli,4-4-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Leon,2018
+6.0,2017-08-26,20:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,2.0,Morelia,,,56.0,31134.0,Paul Aguilar,4-4-2,Jorge Pérez,Match Report,,0,0,,,0,0,America,2018
+6.0,2017-08-26,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,León,,,43.0,17630.0,Néstor Araujo,4-3-1-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Santos Laguna,2018
+6.0,2017-08-26,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,1.0,1.0,Monterrey,,,52.0,21453.0,José Corona,4-2-3-1,Alfredo Peñaloza,Match Report,,0,0,,,0,0,Cruz Azul,2018
+6.0,2017-08-26,20:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,0.0,América,,,44.0,31134.0,Gabriel Achilier,4-2-3-1,Jorge Pérez,Match Report,,0,0,,,1,1,Morelia,2018
+6.0,2017-08-26,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,3.0,2.0,Lobos BUAP,,,65.0,41329.0,Hugo Ayala,3-4-1-2,Jorge Rojas,Match Report,,0,0,,,0,0,UANL,2018
+6.0,2017-08-26,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,0.0,0.0,Guadalajara,,,29.0,23411.0,Miguel Ángel Martínez,4-4-2,Fernando Guerrero,Match Report,,0,0,,,0,0,Queretaro,2018
+6.0,2017-08-26,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,2.0,3.0,UANL,,,35.0,41329.0,Francisco Javier Rodríguez,4-4-2,Jorge Rojas,Match Report,,0,0,,,0,1,Lobos BUAP,2018
+6.0,2017-08-26,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,1.0,1.0,Cruz Azul,,,48.0,21453.0,José María Basanta,4-3-3,Alfredo Peñaloza,Match Report,,0,0,,,0,1,Monterrey,2018
+6.0,2017-08-27,18:05,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,1.0,0.0,UNAM,,,44.0,14253.0,Cristian Pellerano,4-3-3,Luis Santander,Match Report,,0,0,,,0,0,Veracruz,2018
+6.0,2017-08-27,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,1.0,2.0,Toluca,,,42.0,12584.0,Patricio Araujo,5-3-2,Óscar Macias,Match Report,,0,0,,,0,0,Puebla,2018
+6.0,2017-08-27,18:05,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,0.0,1.0,Veracruz,,,56.0,14253.0,Abraham González,3-5-2,Luis Santander,Match Report,,0,0,,,0,0,UNAM,2018
+6.0,2017-08-27,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,2.0,1.0,Puebla,,,58.0,12584.0,Antonio Ríos,4-2-3-1,Óscar Macias,Match Report,,0,0,,,0,0,Toluca,2018
+7.0,2017-09-08,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,0.0,0.0,Cruz Azul,,,44.0,16716.0,Patricio Araujo,5-3-2,Erick Yair Miranda,Match Report,,0,0,,,0,0,Puebla,2018
+7.0,2017-09-08,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,0.0,0.0,Puebla,,,56.0,16716.0,José Corona,4-2-3-1,Erick Yair Miranda,Match Report,,0,0,,,0,0,Cruz Azul,2018
+7.0,2017-09-09,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,2.0,América,,,48.0,19081.0,Cristian Pellerano,4-3-3,Alfredo Peñaloza,Match Report,,0,0,,,0,0,Veracruz,2018
+7.0,2017-09-09,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,3.0,1.0,Pachuca,,,52.0,17511.0,Jair Pereira,4-2-3-1,Paul Delgadillo,Match Report,,0,0,,,0,0,Guadalajara,2018
+7.0,2017-09-09,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,3.0,1.0,Lobos BUAP,,,42.0,12623.0,Gabriel Achilier,4-2-3-1,Luis Santander,Match Report,,0,0,,,0,0,Morelia,2018
+7.0,2017-09-09,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,1.0,0.0,Necaxa,,,46.0,50721.0,José María Basanta,4-3-3,Jorge Pérez,Match Report,,0,0,,,0,1,Monterrey,2018
+7.0,2017-09-09,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,3.0,Guadalajara,,,48.0,17511.0,Erick Gutiérrez,4-2-3-1,Paul Delgadillo,Match Report,,0,0,,,0,0,Pachuca,2018
+7.0,2017-09-09,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,León,,,52.0,21130.0,Tiago Volpi,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,Queretaro,2018
+7.0,2017-09-09,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,0.0,Veracruz,,,52.0,19081.0,Oribe Peralta,4-4-2,Alfredo Peñaloza,Match Report,,0,0,,,0,0,America,2018
+7.0,2017-09-09,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,Querétaro,,,48.0,21130.0,Mauro Boselli,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,Leon,2018
+7.0,2017-09-09,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,1.0,Monterrey,,,54.0,50721.0,Marcelo Barovero,4-4-2,Jorge Pérez,Match Report,,0,0,,,0,0,Necaxa,2018
+7.0,2017-09-09,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,3.0,Morelia,,,58.0,12623.0,Francisco Javier Rodríguez,5-3-2,Luis Santander,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+7.0,2017-09-10,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Away,D,0.0,0.0,Santos,,,48.0,19983.0,Antonio Ríos,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Toluca,2018
+7.0,2017-09-10,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Home,D,0.0,0.0,Toluca,,,53.0,19983.0,Carlos Izquierdoz,4-3-1-2,Fernando Guerrero,Match Report,,0,0,,,0,0,Santos Laguna,2018
+7.0,2017-09-10,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,2.0,0.0,UNAM,,,38.0,14343.0,Víctor Malcorra,5-3-2,Francisco Chacon,Match Report,,0,0,,,0,0,Tijuana,2018
+7.0,2017-09-10,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,0.0,2.0,Tijuana,,,62.0,14343.0,Abraham González,3-5-2,Francisco Chacon,Match Report,,0,0,,,0,0,UNAM,2018
+8.0,2017-09-15,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,1.0,1.0,América,,,65.0,27333.0,Víctor Malcorra,5-3-2,Luis Santander,Match Report,,0,0,,,0,1,Tijuana,2018
+7.0,2017-09-15,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,3.0,3.0,Morelia,,,51.0,25287.0,Juninho,4-3-3,Paul Delgadillo,Match Report,,0,0,,,0,0,UANL,2018
+8.0,2017-09-15,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,1.0,1.0,Tijuana,,,35.0,27333.0,Oribe Peralta,4-3-3,Luis Santander,Match Report,,0,0,,,0,0,America,2018
+8.0,2017-09-15,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,3.0,3.0,UANL,,,50.0,25287.0,Gabriel Achilier,4-1-3-2,Paul Delgadillo,Match Report,,0,0,,,0,1,Morelia,2018
+8.0,2017-09-16,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,1.0,1.0,Guadalajara,,,35.0,35013.0,Gerardo Alcoba,4-3-3,Roberto García,Match Report,,0,0,,,0,0,UNAM,2018
+8.0,2017-09-16,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,2.0,Cruz Azul,,,28.0,18141.0,Carlos Izquierdoz,4-3-3,Fernando Hernández,Match Report,,0,0,,,0,0,Santos Laguna,2018
+8.0,2017-09-16,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,3.0,1.0,Pachuca,,,40.0,17124.0,Mauro Boselli,4-4-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Leon,2018
+8.0,2017-09-16,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,1.0,1.0,UNAM,,,66.0,35013.0,Jair Pereira,4-2-3-1,Roberto García,Match Report,,0,0,,,0,0,Guadalajara,2018
+8.0,2017-09-16,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,1.0,1.0,Puebla,,,58.0,8456.0,Marcelo Barovero,4-4-2,Jorge Rojas,Match Report,,0,0,,,0,0,Necaxa,2018
+8.0,2017-09-16,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,1.0,1.0,Necaxa,,,43.0,8456.0,Patricio Araujo,5-3-2,Jorge Rojas,Match Report,,0,0,,,0,0,Puebla,2018
+8.0,2017-09-16,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,1.0,Atlas,,,61.0,47106.0,José María Basanta,4-3-3,Marco Antonio Nava,Match Report,,0,0,,,0,1,Monterrey,2018
+7.0,2017-09-16,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,2.0,Monterrey,,,39.0,47106.0,Miguel Ángel Fraga,4-4-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Atlas,2018
+8.0,2017-09-16,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,1.0,Santos,,,72.0,18141.0,José Corona,4-3-2-1,Fernando Hernández,Match Report,,0,0,,,0,0,Cruz Azul,2018
+8.0,2017-09-16,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,3.0,León,,,60.0,17124.0,Erick Gutiérrez,4-2-3-1,César Arturo Ramos,Match Report,,0,0,,,0,0,Pachuca,2018
+8.0,2017-09-17,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,1.0,0.0,Veracruz,,,53.0,11837.0,Francisco Javier Rodríguez,5-3-2,Óscar Macias,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+8.0,2017-09-17,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,0.0,1.0,Lobos BUAP,,,47.0,11837.0,Cristian Pellerano,4-3-3,Óscar Macias,Match Report,,0,0,,,0,0,Veracruz,2018
+8.0,2017-09-17,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,3.0,2.0,Querétaro,,,56.0,19624.0,Antonio Ríos,4-2-3-1,Erick Yair Miranda,Match Report,,0,0,,,0,0,Toluca,2018
+8.0,2017-09-17,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,2.0,3.0,Toluca,,,44.0,19624.0,Emanuel Villa,4-4-2,Erick Yair Miranda,Match Report,,0,0,,,1,2,Queretaro,2018
+9.0,2017-09-26,21:30,Liga MX,Apertura 2017 Regular Season,Tue,Home,W,2.0,1.0,Morelia,,,50.0,11375.0,Melitón Hernández,4-4-2,Roberto García,Match Report,,0,0,,,0,0,Veracruz,2018
+8.0,2017-09-26,21:15,Liga MX,Apertura 2017 Regular Season,Tue,Away,W,1.0,0.0,Tijuana,,,53.0,25333.0,Juninho,3-4-1-2,César Arturo Ramos,Match Report,,0,0,,,0,0,UANL,2018
+9.0,2017-09-26,21:15,Liga MX,Apertura 2017 Regular Season,Tue,Home,L,0.0,1.0,UANL,,,47.0,25333.0,Juan Carlos Valenzuela,5-3-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Tijuana,2018
+9.0,2017-09-26,21:30,Liga MX,Apertura 2017 Regular Season,Tue,Away,L,1.0,2.0,Veracruz,,,50.0,11375.0,Gabriel Achilier,4-2-3-1,Roberto García,Match Report,,0,0,,,1,1,Morelia,2018
+8.0,2017-09-26,20:00,Liga MX,Apertura 2017 Regular Season,Tue,Away,W,2.0,1.0,Puebla,,,44.0,5127.0,Óscar Ustari,4-1-4-1,Francisco Chacon,Match Report,,0,0,,,0,0,Atlas,2018
+9.0,2017-09-26,20:00,Liga MX,Apertura 2017 Regular Season,Tue,Home,L,1.0,2.0,Atlas,,,56.0,5127.0,Patricio Araujo,5-3-2,Francisco Chacon,Match Report,,0,0,,,0,0,Puebla,2018
+9.0,2017-09-26,19:06,Liga MX,Apertura 2017 Regular Season,Tue,Home,L,1.0,2.0,Lobos BUAP,,,62.0,20707.0,Carlos Salcido,4-2-3-1,Eduardo Basulto,Match Report,,0,0,,,0,0,Guadalajara,2018
+9.0,2017-09-26,19:06,Liga MX,Apertura 2017 Regular Season,Tue,Away,W,2.0,1.0,Guadalajara,,,38.0,20707.0,Francisco Javier Rodríguez,5-3-2,Eduardo Basulto,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+9.0,2017-09-27,21:06,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,0.0,4.0,Pachuca,,,65.0,25138.0,José Corona,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Cruz Azul,2018
+9.0,2017-09-27,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,0.0,1.0,Necaxa,,,62.0,7225.0,Tiago Volpi,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Queretaro,2018
+9.0,2017-09-27,19:06,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,1.0,2.0,León,,,51.0,25450.0,Oribe Peralta,4-4-2,Diego Montaño,Match Report,,0,0,,,0,0,America,2018
+9.0,2017-09-27,19:06,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,2.0,1.0,América,,,49.0,25450.0,Mauro Boselli,4-4-2,Diego Montaño,Match Report,,0,0,,,0,0,Leon,2018
+9.0,2017-09-27,21:06,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,4.0,0.0,Cruz Azul,,,35.0,25138.0,Erick Gutiérrez,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Pachuca,2018
+9.0,2017-09-27,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,2.0,1.0,UNAM,,,52.0,22558.0,Antonio Ríos,4-4-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Toluca,2018
+9.0,2017-09-27,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,1.0,0.0,Querétaro,,,38.0,7225.0,Marcelo Barovero,4-4-2,Fernando Guerrero,Match Report,,0,0,,,0,0,Necaxa,2018
+9.0,2017-09-27,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,1.0,2.0,Toluca,,,48.0,22558.0,Gerardo Alcoba,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,0,0,UNAM,2018
+9.0,2017-09-29,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,W,2.0,0.0,Veracruz,,,55.0,24155.0,Óscar Ustari,4-4-2,Luis Santander,Match Report,,0,0,,,0,0,Atlas,2018
+10.0,2017-09-29,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,L,0.0,3.0,Morelia,,,49.0,18099.0,Juan Carlos Valenzuela,3-5-2,Erick Yair Miranda,Match Report,,0,0,,,0,0,Tijuana,2018
+10.0,2017-09-29,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,L,0.0,2.0,Atlas,,,45.0,24155.0,Melitón Hernández,4-4-2,Luis Santander,Match Report,,0,0,,,0,0,Veracruz,2018
+10.0,2017-09-29,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,W,3.0,0.0,Tijuana,,,51.0,18099.0,Rodrigo Millar,4-2-3-1,Erick Yair Miranda,Match Report,,0,0,,,0,0,Morelia,2018
+10.0,2017-09-30,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,3.0,0.0,Lobos BUAP,,,38.0,9464.0,Mauro Boselli,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Leon,2018
+10.0,2017-09-30,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,3.0,León,,,62.0,9464.0,Francisco Javier Rodríguez,5-3-2,Jorge Rojas,Match Report,,0,0,,,0,2,Lobos BUAP,2018
+10.0,2017-09-30,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,Toluca,,,25.0,27480.0,Oribe Peralta,5-4-1,Roberto García,Match Report,,0,0,,,0,0,America,2018
+10.0,2017-09-30,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,2.0,2.0,Monterrey,,,52.0,18348.0,Tiago Volpi,4-3-1-2,Diego Montaño,Match Report,,0,0,,,1,1,Queretaro,2018
+9.0,2017-09-30,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,1.0,0.0,Guadalajara,,,46.0,41322.0,Juninho,4-3-3,Fernando Guerrero,Match Report,,0,0,,,1,1,UANL,2018
+10.0,2017-09-30,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,0.0,0.0,Pachuca,,,42.0,24785.0,Marcelo Barovero,4-4-2,Francisco Chacon,Match Report,,0,0,,,0,0,Necaxa,2018
+10.0,2017-09-30,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,América,,,75.0,27480.0,Antonio Ríos,4-4-2,Roberto García,Match Report,,0,0,,,0,0,Toluca,2018
+10.0,2017-09-30,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,1.0,UANL,,,54.0,41322.0,Carlos Salcido,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Guadalajara,2018
+9.0,2017-09-30,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,2.0,2.0,Querétaro,,,49.0,18348.0,José María Basanta,4-3-3,Diego Montaño,Match Report,,0,0,,,1,1,Monterrey,2018
+10.0,2017-09-30,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,0.0,0.0,Necaxa,,,58.0,24785.0,Erick Gutiérrez,4-2-3-1,Francisco Chacon,Match Report,,0,0,,,0,0,Pachuca,2018
+9.0,2017-10-01,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Home,D,0.0,0.0,Puebla,,,53.0,17437.0,Carlos Izquierdoz,4-3-1-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Santos Laguna,2018
+10.0,2017-10-01,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Away,D,0.0,0.0,Santos,,,47.0,17437.0,Patricio Araujo,4-4-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Puebla,2018
+10.0,2017-10-01,16:05,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,4.0,1.0,UNAM,,,56.0,22179.0,José Corona,4-2-3-1,César Arturo Ramos,Match Report,,0,0,,,0,0,Cruz Azul,2018
+10.0,2017-10-01,16:05,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,1.0,4.0,Cruz Azul,,,44.0,22179.0,Gerardo Alcoba,3-5-2,César Arturo Ramos,Match Report,,0,0,,,0,0,UNAM,2018
+11.0,2017-10-11,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,1.0,3.0,Toluca,,,44.0,19186.0,Juan Carlos Medina,5-3-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+11.0,2017-10-11,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,3.0,1.0,Lobos BUAP,,,57.0,19186.0,Antonio Ríos,4-4-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Toluca,2018
+11.0,2017-10-13,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,0.0,0.0,Tijuana,,,37.0,25333.0,Cristian Pellerano,4-5-1,Jorge Rojas,Match Report,,0,0,,,0,0,Veracruz,2018
+11.0,2017-10-13,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,2.0,2.0,Querétaro,,,55.0,4802.0,Patricio Araujo,4-4-2,Roberto García,Match Report,,0,0,,,1,1,Puebla,2018
+11.0,2017-10-13,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,2.0,2.0,Puebla,,,45.0,4802.0,Tiago Volpi,4-3-1-2,Roberto García,Match Report,,0,0,,,0,0,Queretaro,2018
+11.0,2017-10-13,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,0.0,0.0,Veracruz,,,63.0,25333.0,Juan Carlos Valenzuela,4-4-2,Jorge Rojas,Match Report,,0,0,,,0,0,Tijuana,2018
+11.0,2017-10-14,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,Morelia,,,57.0,27189.0,Carlos Salcido,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,0,0,Guadalajara,2018
+11.0,2017-10-14,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,1.0,0.0,UANL,,,32.0,24271.0,Mauro Boselli,4-2-3-1,Francisco Chacon,Match Report,,0,0,,,0,0,Leon,2018
+11.0,2017-10-14,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,2.0,Monterrey,,,62.0,46888.0,Erick Gutiérrez,4-2-3-1,Eduardo Basulto,Match Report,,0,0,,,0,0,Pachuca,2018
+11.0,2017-10-14,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,3.0,América,,,66.0,27649.0,José Corona,4-1-4-1,Paul Delgadillo,Match Report,,0,0,,,1,1,Cruz Azul,2018
+10.0,2017-10-14,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,1.0,León,,,68.0,24271.0,Juninho,4-3-3,Francisco Chacon,Match Report,,0,0,,,0,0,UANL,2018
+10.0,2017-10-14,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,0.0,Pachuca,,,38.0,46888.0,José María Basanta,4-3-3,Eduardo Basulto,Match Report,,0,0,,,0,0,Monterrey,2018
+11.0,2017-10-14,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,Guadalajara,,,43.0,27189.0,Gabriel Achilier,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,1,1,Morelia,2018
+11.0,2017-10-14,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,0.0,0.0,Necaxa,,,54.0,15606.0,Gerardo Alcoba,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,UNAM,2018
+11.0,2017-10-14,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,3.0,1.0,Cruz Azul,,,34.0,27649.0,Oribe Peralta,4-4-2,Paul Delgadillo,Match Report,,0,0,,,0,0,America,2018
+11.0,2017-10-14,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,0.0,0.0,UNAM,,,46.0,15606.0,Marcelo Barovero,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,Necaxa,2018
+10.0,2017-10-15,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,1.0,0.0,Santos,,,44.0,18281.0,Óscar Ustari,4-4-2,Erick Yair Miranda,Match Report,,0,0,,,0,0,Atlas,2018
+10.0,2017-10-15,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,0.0,1.0,Atlas,,,56.0,18281.0,Carlos Izquierdoz,4-3-1-2,Erick Yair Miranda,Match Report,,0,0,,,0,0,Santos Laguna,2018
+12.0,2017-10-17,21:00,Liga MX,Apertura 2017 Regular Season,Tue,Home,W,2.0,0.0,León,,,56.0,10100.0,Gerardo Alcoba,4-2-3-1,Eduardo Basulto,Match Report,,0,0,,,0,0,UNAM,2018
+12.0,2017-10-17,20:45,Liga MX,Apertura 2017 Regular Season,Tue,Away,L,0.0,1.0,UANL,,,43.0,41235.0,Cristian Pellerano,4-5-1,Fernando Hernández,Match Report,,0,0,,,0,0,Veracruz,2018
+12.0,2017-10-17,19:00,Liga MX,Apertura 2017 Regular Season,Tue,Home,L,1.0,2.0,Tijuana,,,59.0,4651.0,Francisco Javier Rodríguez,5-3-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+11.0,2017-10-17,20:45,Liga MX,Apertura 2017 Regular Season,Tue,Home,W,1.0,0.0,Veracruz,,,57.0,41235.0,Juninho,4-3-3,Fernando Hernández,Match Report,,0,0,,,0,0,UANL,2018
+12.0,2017-10-17,20:00,Liga MX,Apertura 2017 Regular Season,Tue,Away,W,2.0,1.0,Querétaro,,,46.0,21952.0,José Corona,3-1-4-2,Erick Yair Miranda,Match Report,,0,0,,,2,3,Cruz Azul,2018
+12.0,2017-10-17,19:00,Liga MX,Apertura 2017 Regular Season,Tue,Away,W,2.0,1.0,Lobos BUAP,,,41.0,4651.0,Juan Carlos Valenzuela,3-4-3,Marco Antonio Nava,Match Report,,0,0,,,0,0,Tijuana,2018
+11.0,2017-10-17,21:30,Liga MX,Apertura 2017 Regular Season,Tue,Home,L,0.0,1.0,Morelia,,,52.0,22294.0,Óscar Ustari,4-4-2,Jorge Rojas,Match Report,,0,0,,,0,0,Atlas,2018
+12.0,2017-10-17,21:30,Liga MX,Apertura 2017 Regular Season,Tue,Away,W,1.0,0.0,Atlas,,,48.0,22294.0,Gabriel Achilier,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Morelia,2018
+12.0,2017-10-17,20:00,Liga MX,Apertura 2017 Regular Season,Tue,Home,L,1.0,2.0,Cruz Azul,,,54.0,21952.0,Miguel Ángel Martínez,4-3-1-2,Erick Yair Miranda,Match Report,,0,0,,,1,1,Queretaro,2018
+12.0,2017-10-17,21:00,Liga MX,Apertura 2017 Regular Season,Tue,Away,L,0.0,2.0,UNAM,,,44.0,10100.0,Mauro Boselli,4-2-3-1,Eduardo Basulto,Match Report,,0,0,,,0,0,Leon,2018
+12.0,2017-10-18,19:06,Liga MX,Apertura 2017 Regular Season,Wed,Away,D,2.0,2.0,Pachuca,,,53.0,15345.0,Antonio Ríos,4-4-2,Diego Montaño,Match Report,,0,0,,,0,0,Toluca,2018
+11.0,2017-10-18,19:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,3.0,2.0,Necaxa,,,46.0,11956.0,Carlos Izquierdoz,4-4-2,Paul Delgadillo,Match Report,,0,0,,,1,1,Santos Laguna,2018
+11.0,2017-10-18,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,0.0,2.0,Puebla,,,55.0,6515.0,José María Basanta,4-3-3,César Arturo Ramos,Match Report,,0,0,,,0,0,Monterrey,2018
+12.0,2017-10-18,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,2.0,0.0,Monterrey,,,45.0,6515.0,Patricio Araujo,5-3-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Puebla,2018
+12.0,2017-10-18,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,W,2.0,1.0,Guadalajara,,,35.0,47532.0,Oribe Peralta,4-4-2,Francisco Chacon,Match Report,,0,0,,,0,0,America,2018
+12.0,2017-10-18,19:06,Liga MX,Apertura 2017 Regular Season,Wed,Home,D,2.0,2.0,Toluca,,,47.0,15345.0,Erick Gutiérrez,4-2-3-1,Diego Montaño,Match Report,,0,0,,,0,0,Pachuca,2018
+12.0,2017-10-18,19:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,2.0,3.0,Santos,,,54.0,11956.0,Marcelo Barovero,4-4-2,Paul Delgadillo,Match Report,,0,0,,,0,0,Necaxa,2018
+12.0,2017-10-18,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,L,1.0,2.0,América,,,65.0,47532.0,Carlos Salcido,4-2-3-1,Francisco Chacon,Match Report,,0,0,,,0,0,Guadalajara,2018
+12.0,2017-10-20,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,W,1.0,0.0,Tijuana,,,46.0,23989.0,Óscar Ustari,4-4-2,Fernando Guerrero,Match Report,,0,0,,,1,1,Atlas,2018
+13.0,2017-10-20,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,0.0,0.0,Morelia,,,40.0,22422.0,Mauro Boselli,4-2-3-1,Alfredo Peñaloza,Match Report,,0,0,,,0,1,Leon,2018
+13.0,2017-10-20,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,L,0.0,1.0,Atlas,,,54.0,23989.0,Juan Carlos Valenzuela,3-5-2,Fernando Guerrero,Match Report,,0,0,,,0,0,Tijuana,2018
+13.0,2017-10-20,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,0.0,0.0,León,,,60.0,22422.0,Gabriel Achilier,4-2-3-1,Alfredo Peñaloza,Match Report,,0,0,,,0,1,Morelia,2018
+12.0,2017-10-21,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,3.0,0.0,Toluca,,,50.0,41405.0,Juninho,4-3-3,Jorge Rojas,Match Report,,0,0,,,0,1,UANL,2018
+13.0,2017-10-21,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,Santos,,,48.0,15249.0,Miguel Ángel Martínez,4-3-1-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Queretaro,2018
+13.0,2017-10-21,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,3.0,Lobos BUAP,,,56.0,14230.0,José Corona,4-3-3,Diego Montaño,Match Report,,0,0,,,0,0,Cruz Azul,2018
+13.0,2017-10-21,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,1.0,Necaxa,,,57.0,22680.0,Paul Aguilar,4-4-1-1,Luis Santander,Match Report,,0,0,,,0,0,America,2018
+13.0,2017-10-21,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,3.0,0.0,Cruz Azul,,,44.0,14230.0,Francisco Javier Rodríguez,5-3-2,Diego Montaño,Match Report,,0,0,,,1,1,Lobos BUAP,2018
+13.0,2017-10-21,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,1.0,0.0,Puebla,,,52.0,21732.0,Erick Gutiérrez,4-2-3-1,Jorge Pérez,Match Report,,0,0,,,0,0,Pachuca,2018
+13.0,2017-10-21,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,1.0,0.0,América,,,43.0,22680.0,Marcelo Barovero,4-2-3-1,Luis Santander,Match Report,,0,0,,,0,0,Necaxa,2018
+13.0,2017-10-21,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,3.0,UANL,,,50.0,41405.0,Antonio Ríos,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Toluca,2018
+12.0,2017-10-21,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,Querétaro,,,52.0,15249.0,Carlos Izquierdoz,4-4-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Santos Laguna,2018
+13.0,2017-10-21,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,1.0,Pachuca,,,48.0,21732.0,Francisco Javier Torres,5-3-2,Jorge Pérez,Match Report,,0,0,,,0,0,Puebla,2018
+13.0,2017-10-22,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,0.0,1.0,Monterrey,,,64.0,17845.0,Gerardo Alcoba,4-1-4-1,Francisco Chacon,Match Report,,0,0,,,0,0,UNAM,2018
+12.0,2017-10-22,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,1.0,0.0,UNAM,,,36.0,17845.0,José María Basanta,4-4-2,Francisco Chacon,Match Report,,0,0,,,0,0,Monterrey,2018
+13.0,2017-10-22,19:15,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,2.0,3.0,Guadalajara,,,36.0,14404.0,Cristian Pellerano,3-4-3,Paul Delgadillo,Match Report,,0,0,,,0,0,Veracruz,2018
+13.0,2017-10-22,19:15,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,3.0,2.0,Veracruz,,,65.0,14404.0,Carlos Salcido,4-2-3-1,Paul Delgadillo,Match Report,,0,0,,,0,0,Guadalajara,2018
+14.0,2017-10-27,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,L,0.0,3.0,Puebla,,,56.0,12481.0,Gerardo Alcoba,4-2-3-1,Andonai Escobedo,Match Report,,0,0,,,0,0,UNAM,2018
+14.0,2017-10-27,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,W,3.0,0.0,UNAM,,,45.0,12481.0,Francisco Javier Torres,4-4-2,Andonai Escobedo,Match Report,,0,0,,,1,1,Puebla,2018
+14.0,2017-10-28,20:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,2.0,6.0,León,,,51.0,16400.0,Melitón Hernández,5-4-1,César Arturo Ramos,Match Report,,0,0,,,1,1,Veracruz,2018
+14.0,2017-10-28,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,3.0,1.0,Tijuana,,,55.0,23536.0,Carlos Salcido,4-2-3-1,Fernando Hernández,Match Report,,0,0,,,0,0,Guadalajara,2018
+13.0,2017-10-28,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,2.0,2.0,Querétaro,,,65.0,19855.0,Rafael Márquez,4-1-4-1,Óscar Macias,Match Report,,0,0,,,0,0,Atlas,2018
+14.0,2017-10-28,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,UANL,,,40.0,17254.0,José Corona,4-1-4-1,Roberto García,Match Report,,0,0,,,0,0,Cruz Azul,2018
+13.0,2017-10-28,20:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,0.0,América,,,43.0,51507.0,José María Basanta,5-3-2,Jorge Rojas,Match Report,,0,0,,,1,1,Monterrey,2018
+14.0,2017-10-28,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,3.0,Guadalajara,,,45.0,23536.0,Juan Carlos Valenzuela,3-5-2,Fernando Hernández,Match Report,,0,0,,,0,0,Tijuana,2018
+14.0,2017-10-28,20:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,2.0,Monterrey,,,58.0,51507.0,Oribe Peralta,3-4-3,Jorge Rojas,Match Report,,0,0,,,0,0,America,2018
+14.0,2017-10-28,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,2.0,2.0,Atlas,,,36.0,19855.0,Miguel Ángel Martínez,4-3-1-2,Óscar Macias,Match Report,,0,0,,,0,0,Queretaro,2018
+14.0,2017-10-28,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,5.0,0.0,Lobos BUAP,,,47.0,12822.0,Marcelo Barovero,4-2-3-1,Jorge Pérez,Match Report,,0,0,,,0,0,Necaxa,2018
+13.0,2017-10-28,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,Cruz Azul,,,61.0,17254.0,Juninho,4-3-3,Roberto García,Match Report,,0,0,,,1,1,UANL,2018
+14.0,2017-10-28,20:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,6.0,2.0,Veracruz,,,49.0,16400.0,Mauro Boselli,4-2-3-1,César Arturo Ramos,Match Report,,0,0,,,2,2,Leon,2018
+14.0,2017-10-28,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,5.0,Necaxa,,,53.0,12822.0,Francisco Javier Rodríguez,5-3-2,Jorge Pérez,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+14.0,2017-10-29,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,0.0,1.0,Morelia,,,62.0,15606.0,Antonio Ríos,4-2-3-1,Francisco Chacon,Match Report,,0,0,,,0,1,Toluca,2018
+14.0,2017-10-29,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,1.0,0.0,Toluca,,,39.0,15606.0,Rodrigo Millar,4-2-3-1,Francisco Chacon,Match Report,,0,0,,,0,0,Morelia,2018
+14.0,2017-10-29,19:15,Liga MX,Apertura 2017 Regular Season,Sun,Away,D,2.0,2.0,Santos,,,50.0,18168.0,Erick Gutiérrez,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,0,0,Pachuca,2018
+13.0,2017-10-29,19:15,Liga MX,Apertura 2017 Regular Season,Sun,Home,D,2.0,2.0,Pachuca,,,51.0,18168.0,Carlos Izquierdoz,4-4-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Santos Laguna,2018
+14.0,2017-11-01,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Home,D,1.0,1.0,UANL,,,28.0,27263.0,Rafael Márquez,3-4-3,Paul Delgadillo,Match Report,,0,0,,,1,1,Atlas,2018
+14.0,2017-11-01,21:00,Liga MX,Apertura 2017 Regular Season,Wed,Away,D,1.0,1.0,Atlas,,,72.0,27263.0,Juninho,4-2-3-1,Paul Delgadillo,Match Report,,0,0,,,0,0,UANL,2018
+15.0,2017-11-03,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,L,1.0,2.0,Cruz Azul,,,59.0,27850.0,Gabriel Achilier,4-2-3-1,Fernando Hernández,Match Report,,0,0,,,0,0,Morelia,2018
+15.0,2017-11-03,20:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,L,1.0,2.0,Tijuana,,,42.0,26333.0,Mauro Boselli,4-2-3-1,Óscar Macias,Match Report,,0,0,,,0,0,Leon,2018
+15.0,2017-11-03,20:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,W,2.0,1.0,León,,,58.0,26333.0,Juan Carlos Valenzuela,4-2-2-2,Óscar Macias,Match Report,,0,0,,,1,2,Tijuana,2018
+15.0,2017-11-03,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,W,2.0,1.0,Morelia,,,41.0,27850.0,José Corona,4-1-4-1,Fernando Hernández,Match Report,,0,0,,,0,0,Cruz Azul,2018
+15.0,2017-11-04,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,1.0,0.0,Pachuca,,,33.0,22361.0,Miguel Ángel Martínez,4-2-2-2,Francisco Chacon,Match Report,,0,0,,,0,0,Queretaro,2018
+15.0,2017-11-04,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,1.0,Monterrey,,,63.0,8334.0,Francisco Javier Rodríguez,5-3-2,Paul Delgadillo,Match Report,,0,0,,,0,1,Lobos BUAP,2018
+14.0,2017-11-04,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,1.0,2.0,Lobos BUAP,,,37.0,8334.0,Jesús Molina,5-3-2,Paul Delgadillo,Match Report,,0,0,,,0,0,Monterrey,2018
+15.0,2017-11-04,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,Guadalajara,,,41.0,30305.0,Rafael Márquez,3-4-3,Jorge Rojas,Match Report,,0,0,,,1,1,Atlas,2018
+15.0,2017-11-04,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,1.0,1.0,América,,,55.0,21273.0,Patricio Araujo,5-4-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Puebla,2018
+15.0,2017-11-04,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,1.0,1.0,Puebla,,,45.0,21273.0,Oribe Peralta,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,America,2018
+15.0,2017-11-04,21:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,Atlas,,,59.0,30305.0,Carlos Salcido,4-2-3-1,Jorge Rojas,Match Report,,0,0,,,0,0,Guadalajara,2018
+15.0,2017-11-04,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,1.0,Querétaro,,,67.0,22361.0,Erick Gutiérrez,4-2-3-1,Francisco Chacon,Match Report,,0,0,,,0,0,Pachuca,2018
+14.0,2017-11-05,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,D,2.0,2.0,UNAM,,,39.0,15719.0,Carlos Izquierdoz,4-4-2,Luis Santander,Match Report,,0,0,,,0,0,Santos Laguna,2018
+15.0,2017-11-05,19:15,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,1.0,0.0,Veracruz,,,55.0,18929.0,Antonio Ríos,4-2-3-1,Marco Antonio Nava,Match Report,,0,0,,,0,0,Toluca,2018
+15.0,2017-11-05,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,D,2.0,2.0,Santos,,,61.0,15719.0,Gerardo Alcoba,4-2-3-1,Luis Santander,Match Report,,0,0,,,0,0,UNAM,2018
+15.0,2017-11-05,19:15,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,0.0,1.0,Toluca,,,45.0,18929.0,Guido Milán,5-3-2,Marco Antonio Nava,Match Report,,0,0,,,0,0,Veracruz,2018
+15.0,2017-11-05,19:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,1.0,0.0,Necaxa,,,63.0,41210.0,Juninho,4-2-3-1,Andonai Escobedo,Match Report,,0,0,,,1,1,UANL,2018
+15.0,2017-11-05,19:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,0.0,1.0,UANL,,,37.0,41210.0,Marcelo Barovero,4-4-2,Andonai Escobedo,Match Report,,0,0,,,0,0,Necaxa,2018
+15.0,2017-11-09,21:00,Liga MX,Apertura 2017 Regular Season,Thu,Home,D,1.0,1.0,Santos,,,53.0,40421.0,José María Basanta,4-3-3,Óscar Macias,Match Report,,0,0,,,1,1,Monterrey,2018
+15.0,2017-11-09,21:00,Liga MX,Apertura 2017 Regular Season,Thu,Away,D,1.0,1.0,Monterrey,,,47.0,40421.0,Carlos Izquierdoz,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,Santos Laguna,2018
+16.0,2017-11-17,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,D,1.0,1.0,Pachuca,,,50.0,49579.0,Rafael Márquez,4-2-3-1,Fernando Hernández,Match Report,,0,0,,,0,0,Atlas,2018
+16.0,2017-11-17,21:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,D,1.0,1.0,Atlas,,,51.0,49579.0,Erick Gutiérrez,4-2-3-1,Fernando Hernández,Match Report,,0,0,,,0,0,Pachuca,2018
+16.0,2017-11-17,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Home,L,0.0,1.0,Lobos BUAP,,,42.0,45527.0,Francisco Javier Torres,4-1-4-1,Jorge Rojas,Match Report,,0,0,,,0,0,Puebla,2018
+16.0,2017-11-17,19:00,Liga MX,Apertura 2017 Regular Season,Fri,Away,W,1.0,0.0,Puebla,,,58.0,45527.0,Francisco Javier Rodríguez,5-3-2,Jorge Rojas,Match Report,,0,0,,,0,0,Lobos BUAP,2018
+16.0,2017-11-18,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,1.0,2.0,Morelia,,,52.0,17750.0,Marcelo Barovero,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Necaxa,2018
+16.0,2017-11-18,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,D,1.0,1.0,UNAM,,,34.0,18059.0,Miguel Ángel Martínez,4-2-2-2,Jorge Pérez,Match Report,,0,0,,,0,0,Queretaro,2018
+16.0,2017-11-18,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,2.0,Monterrey,,,60.0,51127.0,Juninho,4-2-3-1,César Arturo Ramos,Match Report,,0,0,,,0,0,UANL,2018
+16.0,2017-11-18,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,L,0.0,1.0,Cruz Azul,,,37.0,26149.0,Cristian Pellerano,4-4-2,Óscar Macias,Match Report,,0,0,,,0,0,Veracruz,2018
+16.0,2017-11-18,21:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,1.0,Necaxa,,,49.0,17750.0,Gabriel Achilier,4-2-3-1,Fernando Guerrero,Match Report,,0,0,,,0,0,Morelia,2018
+16.0,2017-11-18,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Away,W,2.0,0.0,León,,,59.0,24001.0,Carlos Salcido,4-2-3-1,Andonai Escobedo,Match Report,,0,0,,,0,0,Guadalajara,2018
+16.0,2017-11-18,19:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,2.0,0.0,UANL,,,40.0,51127.0,José María Basanta,5-3-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Monterrey,2018
+16.0,2017-11-18,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Away,D,1.0,1.0,Querétaro,,,66.0,18059.0,Gerardo Alcoba,4-2-3-1,Jorge Pérez,Match Report,,0,0,,,0,1,UNAM,2018
+16.0,2017-11-18,19:06,Liga MX,Apertura 2017 Regular Season,Sat,Home,L,0.0,2.0,Guadalajara,,,41.0,24001.0,Mauro Boselli,4-2-3-1,Andonai Escobedo,Match Report,,0,0,,,0,0,Leon,2018
+16.0,2017-11-18,17:00,Liga MX,Apertura 2017 Regular Season,Sat,Home,W,1.0,0.0,Veracruz,,,63.0,26149.0,José Corona,4-1-4-1,Óscar Macias,Match Report,,0,0,,,0,1,Cruz Azul,2018
+16.0,2017-11-19,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Home,L,0.0,1.0,América,,,53.0,27849.0,Carlos Izquierdoz,4-4-2,Diego Montaño,Match Report,,0,0,,,0,0,Santos Laguna,2018
+16.0,2017-11-19,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Away,L,1.0,3.0,Toluca,,,42.0,20269.0,Juan Carlos Valenzuela,4-3-3,Luis Santander,Match Report,,0,0,,,0,0,Tijuana,2018
+16.0,2017-11-19,12:00,Liga MX,Apertura 2017 Regular Season,Sun,Home,W,3.0,1.0,Tijuana,,,58.0,20269.0,Antonio Ríos,4-2-3-1,Luis Santander,Match Report,,0,0,,,0,0,Toluca,2018
+16.0,2017-11-19,18:30,Liga MX,Apertura 2017 Regular Season,Sun,Away,W,1.0,0.0,Santos,,,48.0,27849.0,Oribe Peralta,5-4-1,Diego Montaño,Match Report,,0,0,,,0,0,America,2018
+17.0,2017-11-22,19:30,Liga MX,Quarter-finals,Wed,Away,L,1.0,2.0,Toluca,,,,15799.0,Gabriel Achilier,4-1-4-1,,Match Report,Leg 1 of 2,0,0,,,1,1,Morelia,2018
+17.0,2017-11-22,19:30,Liga MX,Quarter-finals,Wed,Home,W,2.0,1.0,Morelia,,,,15799.0,Antonio Ríos,4-2-3-1,,Match Report,Leg 1 of 2,0,0,,,0,0,Toluca,2018
+17.0,2017-11-22,21:36,Liga MX,Quarter-finals,Wed,Away,D,1.0,1.0,León,,,62.0,15005.0,Juninho,4-2-3-1,Diego Montaño,Match Report,Leg 1 of 2,0,0,,,0,0,UANL,2018
+17.0,2017-11-22,21:36,Liga MX,Quarter-finals,Wed,Home,D,1.0,1.0,UANL,,,38.0,15005.0,Mauro Boselli,4-1-4-1,Diego Montaño,Match Report,Leg 1 of 2,0,0,,,0,0,Leon,2018
+17.0,2017-11-23,21:30,Liga MX,Quarter-finals,Thu,Away,W,2.0,1.0,Atlas,,,,36334.0,Dorlan Pabón,4-3-3,,Match Report,Leg 1 of 2,0,0,,,0,0,Monterrey,2018
+17.0,2017-11-23,19:30,Liga MX,Quarter-finals,Thu,Away,D,0.0,0.0,Cruz Azul,,,,22889.0,Oribe Peralta,3-4-3,Jorge Rojas,Match Report,Leg 1 of 2,0,0,,,0,1,America,2018
+17.0,2017-11-23,21:30,Liga MX,Quarter-finals,Thu,Home,L,1.0,2.0,Monterrey,,,,36334.0,Rafael Márquez,4-2-3-1,,Match Report,Leg 1 of 2,0,0,,,0,0,Atlas,2018
+17.0,2017-11-23,19:30,Liga MX,Quarter-finals,Thu,Home,D,0.0,0.0,América,,,,22889.0,José Corona,4-1-4-1,Jorge Rojas,Match Report,Leg 1 of 2,0,0,,,0,0,Cruz Azul,2018
+18.0,2017-11-25,19:00,Liga MX,Quarter-finals,Sat,Home,D,1.0,1.0,León,,,51.0,41159.0,Juninho,4-2-3-1,Jorge Pérez,Match Report,Leg 2 of 2; UANL won,0,0,,,0,0,UANL,2018
+18.0,2017-11-25,19:00,Liga MX,Quarter-finals,Sat,Away,D,1.0,1.0,UANL,,,50.0,41159.0,Mauro Boselli,4-2-3-1,Jorge Pérez,Match Report,Leg 2 of 2; UANL won,0,0,,,0,0,Leon,2018
+18.0,2017-11-25,21:00,Liga MX,Quarter-finals,Sat,Home,W,2.0,1.0,Toluca,,,39.0,26094.0,Gabriel Achilier,4-2-3-1,Óscar Macias,Match Report,Leg 2 of 2; Morelia won,0,0,,,0,0,Morelia,2018
+18.0,2017-11-25,21:00,Liga MX,Quarter-finals,Sat,Away,L,1.0,2.0,Morelia,,,61.0,26094.0,Antonio Ríos,4-2-3-1,Óscar Macias,Match Report,Leg 2 of 2; Morelia won,0,0,,,0,0,Toluca,2018
+18.0,2017-11-26,20:00,Liga MX,Quarter-finals,Sun,Away,D,0.0,0.0,América,,,64.0,48391.0,José Corona,4-1-4-1,Fernando Guerrero,Match Report,Leg 2 of 2; América won,0,0,,,0,0,Cruz Azul,2018
+18.0,2017-11-26,18:00,Liga MX,Quarter-finals,Sun,Home,W,4.0,1.0,Atlas,,,46.0,45253.0,José María Basanta,4-3-3,Jorge Rojas,Match Report,Leg 2 of 2; Monterrey won,0,0,,,0,0,Monterrey,2018
+18.0,2017-11-26,20:00,Liga MX,Quarter-finals,Sun,Home,D,0.0,0.0,Cruz Azul,,,36.0,48391.0,Oribe Peralta,5-3-2,Fernando Guerrero,Match Report,Leg 2 of 2; América won,0,0,,,0,0,America,2018
+18.0,2017-11-26,18:00,Liga MX,Quarter-finals,Sun,Away,L,1.0,4.0,Monterrey,,,54.0,45253.0,Rafael Márquez,4-2-3-1,Jorge Rojas,Match Report,Leg 2 of 2; Monterrey won,0,0,,,1,1,Atlas,2018
+19.0,2017-11-29,21:00,Liga MX,Semi-finals,Wed,Away,W,1.0,0.0,América,,,48.0,31566.0,Juninho,4-2-3-1,,Match Report,Leg 1 of 2,0,0,,,1,1,UANL,2018
+19.0,2017-11-29,21:00,Liga MX,Semi-finals,Wed,Home,L,0.0,1.0,UANL,,,52.0,31566.0,Oribe Peralta,5-3-2,,Match Report,Leg 1 of 2,0,0,,,0,0,America,2018
+19.0,2017-11-30,19:30,Liga MX,Semi-finals,Thu,Home,L,0.0,1.0,Monterrey,,,63.0,30473.0,Gabriel Achilier,4-2-3-1,Jorge Pérez,Match Report,Leg 1 of 2,0,0,,,0,0,Morelia,2018
+19.0,2017-11-30,19:30,Liga MX,Semi-finals,Thu,Away,W,1.0,0.0,Morelia,,,38.0,30473.0,José María Basanta,4-3-3,Jorge Pérez,Match Report,Leg 1 of 2,0,0,,,1,1,Monterrey,2018
+20.0,2017-12-02,19:00,Liga MX,Semi-finals,Sat,Home,W,3.0,0.0,América,,,51.0,41580.0,André-Pierre Gignac,3-4-3,Fernando Guerrero,Match Report,Leg 2 of 2; UANL won,0,0,,,1,1,UANL,2018
+20.0,2017-12-02,19:00,Liga MX,Semi-finals,Sat,Away,L,0.0,3.0,UANL,,,49.0,41580.0,Oribe Peralta,4-4-2,Fernando Guerrero,Match Report,Leg 2 of 2; UANL won,0,0,,,0,0,America,2018
+20.0,2017-12-03,18:00,Liga MX,Semi-finals,Sun,Home,W,4.0,0.0,Morelia,,,40.0,50744.0,José María Basanta,4-4-2,Jorge Rojas,Match Report,Leg 2 of 2; Monterrey won,0,0,,,1,1,Monterrey,2018
+20.0,2017-12-03,18:00,Liga MX,Semi-finals,Sun,Away,L,0.0,4.0,Monterrey,,,60.0,50744.0,Gabriel Achilier,4-2-3-1,Jorge Rojas,Match Report,Leg 2 of 2; Monterrey won,0,0,,,0,1,Morelia,2018
+21.0,2017-12-07,20:00,Liga MX,Finals,Thu,Home,D,1.0,1.0,Monterrey,,,64.0,41602.0,Juninho,4-2-3-1,Jorge Rojas,Match Report,Leg 1 of 2,0,0,,,1,1,UANL,2018
+21.0,2017-12-07,20:00,Liga MX,Finals,Thu,Away,D,1.0,1.0,UANL,,,37.0,41602.0,José María Basanta,4-3-3,Jorge Rojas,Match Report,Leg 1 of 2,0,0,,,0,0,Monterrey,2018
+22.0,2017-12-10,18:00,Liga MX,Finals,Sun,Away,W,2.0,1.0,Monterrey,,,47.0,51384.0,Juninho,4-2-3-1,,Match Report,Leg 2 of 2; UANL won,0,0,,,0,0,UANL,2018
+22.0,2017-12-10,18:00,Liga MX,Finals,Sun,Home,L,1.0,2.0,UANL,,,54.0,51384.0,José María Basanta,4-3-3,,Match Report,Leg 2 of 2; UANL won,0,0,,,0,1,Monterrey,2018
+19.0,2018-01-05,21:00,Liga MX,Clausura 2018 Regular Season,Fri,Home,L,1.0,2.0,León,,,57.0,36329.0,Rafael Márquez,4-2-3-1,Diego Montaño,Match Report,,0,0,,,0,0,Atlas,2018
+19.0,2018-01-05,21:00,Liga MX,Clausura 2018 Regular Season,Fri,Away,W,2.0,1.0,Atlas,,,43.0,36329.0,Mauro Boselli,4-2-3-1,Diego Montaño,Match Report,,0,0,,,0,0,Leon,2018
+23.0,2018-01-05,19:00,Liga MX,Clausura 2018 Regular Season,Fri,Away,L,1.0,2.0,Puebla,,,67.0,17047.0,Juninho,4-2-3-1,Erick Yair Miranda,Match Report,,0,0,,,0,0,UANL,2018
+17.0,2018-01-05,19:00,Liga MX,Clausura 2018 Regular Season,Fri,Home,W,2.0,1.0,UANL,,,34.0,17047.0,Moisés Muñoz,4-3-3,Erick Yair Miranda,Match Report,,0,0,,,0,0,Puebla,2018
+17.0,2018-01-06,17:00,Liga MX,Clausura 2018 Regular Season,Sat,Away,D,0.0,0.0,Cruz Azul,,,39.0,19831.0,Pablo César Aguilar,4-4-2,César Arturo Ramos,Match Report,,0,0,,,0,0,Tijuana,2018
+19.0,2018-01-06,17:00,Liga MX,Clausura 2018 Regular Season,Sat,Home,D,0.0,0.0,Tijuana,,,61.0,19831.0,José Corona,4-1-4-1,César Arturo Ramos,Match Report,,0,0,,,0,0,Cruz Azul,2018
